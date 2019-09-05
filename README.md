@@ -46,7 +46,7 @@
 </ul>
 <h2 id="所有版本">所有版本</h2>
 <ul>
-<li>v1.0：2D、鸟瞰、全向、实现player的移动</li>
-<li>v2.0：2D、45°、4向、只发消息，不实现移动</li>
+<li><a href="https://github.com/1783492844/virtual_rocker">v1.0</a>：2D、鸟瞰、全向、实现player的移动</li>
+<li><a href="https://github.com/1783492844/virtual_rocker_2">v2.0</a>：2D、45°、4向、只发消息，不实现移动</li>
 </ul>
 
