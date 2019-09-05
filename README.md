@@ -1,8 +1,3 @@
----
-
-
----
-
 <h2 id="简介">简介</h2>
 <ul>
 <li>一个CocosCreator虚拟摇杆demo</li>
