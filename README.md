@@ -1,3 +1,8 @@
+---
+
+
+---
+
 <h2 id="简介">简介</h2>
 <ul>
 <li>CocosCreator虚拟摇杆v2.0</li>
@@ -26,7 +31,7 @@
 <p>在自己的player节点设置接收消息，<br>
 <code>this.node.on('eventName', function(msg){}, this)</code><br>
 传递的参数<br>
-<code>msg = ‘STOP’/'UP'/'DOWN'/'LEFT'/'RIGHT'</code></p>
+<code>msg = 'STOP'/'UP'/'DOWN'/'LEFT'/'RIGHT'</code></p>
 </li>
 <li>
 <p>自行实现player移动</p>
