@@ -1,8 +1,3 @@
----
-
-
----
-
 <h2 id="简介">简介</h2>
 <ul>
 <li>CocosCreator虚拟摇杆v2.0</li>
