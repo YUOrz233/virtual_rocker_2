@@ -1,6 +1,11 @@
+---
+
+
+---
+
 <h2 id="简介">简介</h2>
 <ul>
-<li>一个CocosCreator虚拟摇杆demo</li>
+<li>CocosCreator虚拟摇杆v2.0</li>
 <li>2D 45度视角</li>
 <li>上下左右四向</li>
 <li>只负责发送四向和停止消息给player节点，player节点的移动逻辑自行编写</li>
@@ -38,5 +43,10 @@
 <li><strong>Player</strong>：玩家节点，用于给player节点发送消息</li>
 <li><strong>Sensitivity</strong>：灵敏度，用于缓解因方向的频繁切换而导致的消息频繁发送问题，<strong>范围[0, 1]</strong><br>
 <strong>原理</strong>：根据灵敏度<strong>sensitivity</strong>参数和rocker.js中设置的<strong>FPS</strong>参数（第4行）设置消息发送间隔<strong>msgInterval</strong></li>
+</ul>
+<h2 id="所有版本">所有版本</h2>
+<ul>
+<li>v1.0：2D、鸟瞰、全向、实现player的移动</li>
+<li>v2.0：2D、45°、4向、只发消息，不实现移动</li>
 </ul>
 
