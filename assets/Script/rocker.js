@@ -1,5 +1,7 @@
 // 发送消息的事件名
 const eventName = 'moveMode'
+// 用于设置消息发送的频率
+const FPS = 30
 
 const moveModeEnum = {
     UP: 'w',
@@ -9,9 +11,6 @@ const moveModeEnum = {
     STOP: '0'
 }
 const PI = 3.14
-
-// 用于设置消息发送的频率
-const FPS = 30
 
 cc.Class({
     extends: cc.Component,
